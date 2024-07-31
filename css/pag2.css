@@ -1,0 +1,50 @@
+
+
+
+/*body{
+   /* background-color:  #bd480e;
+}*/
+
+div{
+color: rgb(rgb(255, 0, 0));
+text-align: center;
+display: block;
+margin-inline-start: 2px;
+margin-inline-end: 2px;
+padding-block-start: 0.35em;
+padding-inline-start: 0.75em;
+padding-inline-end: 0.75em;
+padding-block-end: 0.625em;
+min-inline-size: min-content;
+}
+
+
+
+h1{
+    margin-left: -1;
+}
+
+.salas{
+    margin-top: 34p;
+}
+
+#sala1{
+ text-align: left;
+
+}
+#sala2{
+    margin-top: -34px;
+    text-align: right;
+}
+#labinfo1{
+    margin-top: 4px;
+    text-align: left;
+}
+#labinfo2{
+    margin-top: -34px;
+    text-align: right;
+}
+#labrede{
+    margin-top: -34px;
+    text-align:center;
+}
